@@ -4,7 +4,7 @@ plugins {
 	id 'io.spring.dependency-management' version "$springDependencyManagmentVersion"
 }
 
-group = 'net.proselyte'
+group = 'org.asnezhk'
 version = '1.0.0'
 
 java {
